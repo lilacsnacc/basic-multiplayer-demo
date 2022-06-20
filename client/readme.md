@@ -1,0 +1,1 @@
+run the frontend server with ```http-server```
